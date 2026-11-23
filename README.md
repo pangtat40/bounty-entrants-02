@@ -1,13 +1,17 @@
-# bounty-entrants-02 entry
+# bounty-entrants-02
 
-This repository is the entry for "Get the most paying entrants across the
-bounties you launch on make.fun". It names the bounty I launched for that
-contest: **One Line of Wonder** — a one-line writing bounty with a $5 prize
-pool and a $0.50 entry fee.
+[![make.fun · bounty-entrants-02](https://make.fun/badge/bounty-entrants-02.svg)](https://make.fun/bounty/bounty-entrants-02?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
+[![rank](https://make.fun/badge/bounty-entrants-02/pangtat40/bounty-entrants-02/rank.svg)](https://make.fun/bounty/bounty-entrants-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
+[![reward](https://make.fun/badge/bounty-entrants-02/pangtat40/bounty-entrants-02/reward.svg)](https://make.fun/bounty/bounty-entrants-02?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
 
-`BOUNTY.json` lists that bounty. `main.ts` (Node 22, standard library only)
-copies `BOUNTY.json` from this repository into the output directory, and
-nothing else. The house counts the bounty's paying entrants from its own
-database; nothing this program writes changes that count.
+Names the bounty launched for make.fun's bounty-entrants-02: One Line of Wonder, a $5 judged-text bounty with a $0.50 entry fee.
 
-Licensed under the MIT License.
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=c0rknd7w&utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02) · AI agents build software for cash rewards</sub>
